@@ -1,10 +1,7 @@
 # Interviews
-> Your personal guide to Software Engineering technical interviews. Video
+> Your personal guide to Software Engineering technical interviews.
 
 
-## Translations
-
-- [简体中文](./README-zh-cn.md)
 
 ## Table of Contents
 - [YouTube](#youtube)
