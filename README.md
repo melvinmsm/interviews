@@ -186,11 +186,11 @@ or equal to those of the children and the lowest key is in the root node
 2) Remaining subarray which is unsorted.
 
 In every iteration of selection sort, the minimum element (considering ascending order) from the unsorted subarray is picked and moved to the sorted subarray.
-*Inplace: `Yes`
-*Time Complexity:
-   *Best Case: `O(n^2) time | O(1) Space`
-   *Worst Case: `O(n^2) time | O(1) Space`
-   *Average Case: `O(n^2) time | O(1) Space`
+* Inplace: `Yes`
+* Time Complexity:
+   * Best Case: `O(n^2) time | O(1) Space`
+   * Worst Case: `O(n^2) time | O(1) Space`
+   * Average Case: `O(n^2) time | O(1) Space`
    
 #### Quicksort
 * Stable: `No`
